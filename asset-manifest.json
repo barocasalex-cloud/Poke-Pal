@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/poke-pal/static/css/main.e6c13ad2.css",
-    "main.js": "/poke-pal/static/js/main.40bd124e.js",
-    "static/js/453.0c6dbdff.chunk.js": "/poke-pal/static/js/453.0c6dbdff.chunk.js",
-    "index.html": "/poke-pal/index.html",
-    "main.e6c13ad2.css.map": "/poke-pal/static/css/main.e6c13ad2.css.map",
-    "main.40bd124e.js.map": "/poke-pal/static/js/main.40bd124e.js.map",
-    "453.0c6dbdff.chunk.js.map": "/poke-pal/static/js/453.0c6dbdff.chunk.js.map"
+    "main.css": "/Poke-Pal/static/css/main.e6c13ad2.css",
+    "main.js": "/Poke-Pal/static/js/main.f88321b6.js",
+    "static/js/453.0c6dbdff.chunk.js": "/Poke-Pal/static/js/453.0c6dbdff.chunk.js",
+    "index.html": "/Poke-Pal/index.html",
+    "main.e6c13ad2.css.map": "/Poke-Pal/static/css/main.e6c13ad2.css.map",
+    "main.f88321b6.js.map": "/Poke-Pal/static/js/main.f88321b6.js.map",
+    "453.0c6dbdff.chunk.js.map": "/Poke-Pal/static/js/453.0c6dbdff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.40bd124e.js"
+    "static/js/main.f88321b6.js"
   ]
 }
